@@ -12,7 +12,7 @@ I also have a <a href="https://miguelguerreiro.pt/blog">blog</a> where I ocasion
 
 Most of my contributions will be over at my [Drupal.org profile](https://www.drupal.org/u/gueguerreiro)
 
-I've also made some contributions over at github. Most notably:
+I've also made some contributions on github. Most notably:
 
 - [hechoendrupal/console - Do not override constructors for service objects, plugins, and controllers](https://github.com/hechoendrupal/drupal-console/issues/4169)
 - [mglaman/drupal-check - Support and pass a --memory-limit option to PHPStan](https://github.com/mglaman/drupal-check/issues/115)
