@@ -6,7 +6,7 @@ Currently Competence and Tech Lead at Devoteam Creative Tech.
 
 I've been meaning to learn GO or Rust.
 
-I also have a <a href="https://miguelguerreiro.pt/blog">blog</a> where I ocasionally post.
+I also have a <a href="https://miguelguerreiro.pt/">blog</a> where I ocasionally post.
 
 ### Contributions
 
