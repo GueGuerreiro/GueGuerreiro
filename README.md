@@ -2,7 +2,7 @@
 
 I'm a <img alt="Drupal logo" height="20" width="20" src="https://raw.githubusercontent.com/GueGuerreiro/GueGuerreiro/5a39280248ed69533911c4d99884b51b8243d018/assets/drupal.svg"> Drupal developer.
 
-Currently working at 💎 Diamond by BOLD.
+Currently Competence and Tech Lead at Devoteam Creative Tech.
 
 I've been meaning to learn GO or Rust.
 
